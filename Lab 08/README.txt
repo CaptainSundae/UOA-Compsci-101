@@ -1,0 +1,1 @@
+Take 2 string inputs, makes first string upper or lower depending on what the second input is.

@@ -1,0 +1,16 @@
+cat
+dog
+mouse
+horse
+girl
+boy
+rabbit
+owl
+friend
+teenager
+child
+mom
+dad
+spock
+toad
+frog
